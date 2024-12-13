@@ -1,0 +1,13 @@
+Código de barras | Produto | Valor unitário
+
+00001 | Arroz Tio João Kg | 5,20
+00002 | Feijão carioca Kg | 5,90
+00003 | Macarrão Adria | 3,60
+00004 | Macarrão Petit | 4,60
+00005 | Batata Lavada Kg | 9,60
+00006 | Cebola Kg | 10,90
+00007 | Caldo Knorr | 8,25
+00008 | Maçã importada Kg | 22,50 
+00009 | Pera nacional Kg | 13,80
+00010 | KitKat | 3,30
+00011 | Batata Kg | 5,50
